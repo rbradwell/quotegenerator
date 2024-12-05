@@ -34,5 +34,14 @@
       "quote": "Say 'what' again. I dare you. I double dare you!",
       "image": "pulpfiction.jpeg"
     }
+  },
+  {
+    "model": "quote_api.ActorQuote",
+    "fields": {
+      "actor": "Russel Crowe",
+      "title": "Gladiator",
+      "quote": "Are you not entertained?",
+      "image": "0_TxZdqJf0MQ2mdL9p.webp"
+    }
   }
 ]
